@@ -1,0 +1,13 @@
+Use of K-nearest algorith program:
+
+Application:
+Click .exe to run
+Tables must be of type .csv
+All columns must have a name
+No columns can be empty
+
+
+Src:
+Code needs Unity 4.+ to run
+System.Data.dll needs to be manually included in the project (correct .dll located in plugins folder)
+All code written by John E Armstrong except when explicitly stated otherwise (Datahandler .csv function)
